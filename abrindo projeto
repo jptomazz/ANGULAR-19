@@ -1,0 +1,9 @@
+Abrir CMD
+escrever o disco logal que quer entrar exemplo:
+C:
+
+depois acessar o arquivo do projeto exemplo
+
+cd \Users\Usuario\OneDrive\Documentos\DEV JP\ANGULAR\conceitos-basicos
+
+ng serve --open
