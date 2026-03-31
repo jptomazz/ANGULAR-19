@@ -1,0 +1,13 @@
+Abrir CMD---
+escrever o disco local que quer entrar exemplo:
+C:
+------------------------------------------------
+
+comando para acessar o arquivo do projeto exemplo:
+
+cd \Users\Usuario\OneDrive\Documentos\DEV JP\ANGULAR\conceitos-basicos 
+
+------------------------------------------------
+
+comando para acessar o site exemplo:
+ng serve --open
